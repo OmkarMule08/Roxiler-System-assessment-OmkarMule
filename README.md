@@ -1,8 +1,10 @@
 # Roxiler-System-assessment-OmkarMule
 Roxiler System Assessment Frontend-Backend
-Backend Task Data Source THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json REQUEST METHOD : GET RESPONSE FORMAT : JSON
+Backend Task Data Source THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json
+REQUEST METHOD : GET RESPONSE FORMAT : JSON
 
-GET Create API to initialize the database. fetch the JSON from the third party API and initialize the database with seed data. You are free to define your own efficient table / collection structure
+GET Create API to initialize the database. fetch the JSON from the third party API and initialize the database with seed data.
+You are free to define your own efficient table / collection structure
 
 Instruction All the APIs below should take month ( expected value is any month between January to December) as an input and should be matched against the field dateOfSale regardless of the year.
 
@@ -24,7 +26,7 @@ GET Create an API for bar chart ( the response should contain price range and th
 201-300
 301-400
 401-500
-501 - 600
+501 -600
 601-700
 701-800
 801-900
